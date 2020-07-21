@@ -1,6 +1,12 @@
 # code your #position_taken? method here!
 
 def position_taken?(board,index)
-  array[index_number]
+   taken = nil
+   if (board[index] ==  " " || board[index] == "" || board[index] == nil)
+     taken = false
+   else
+     taken = trued
+   end
+   taken
   
 end
