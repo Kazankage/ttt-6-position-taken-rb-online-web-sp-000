@@ -2,4 +2,5 @@
 
 def position_taken?(x,o)
   array[index_number]
+  
 end
